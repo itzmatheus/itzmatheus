@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer developer from Brazil</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Contabilizei<br>🌱 I’m currently learning Java 17, Quarkus and GCP<br>👯 I’m looking to collaborate on fintech<br>👨‍💻 All of my projects are available at https://itzmatheus.github.io/portfolio/<br>📝 I regularly write articles on https://itzmatheus.github.io/portfolio/<br>💬 Ask me about Python, Go, Java, Quarkus, Django and GCP<br>📫 How to reach me matheusjoselfm@gmail.com<br>📄 Know about my experiences https://itzmatheus.github.io/portfolio/<br>⚡ Fun fact Nothing
+🔭 I’m currently working on Contabilizei<br>🎓 I have a degree in computer science and graduate student in software engineering and quality<br>🌱 I’m currently working with Java, Kotlin, Springboot, Quarkus and GCP<br>👯 I’m looking to collaborate on fintech<br>👨‍💻 All of my projects are available at https://itzmatheus.github.io/portfolio/<br>📝 I regularly write articles on https://itzmatheus.github.io/portfolio/<br>💬 Ask me about Python, Go, Java, Quarkus, Django and GCP<br>📫 How to reach me matheusjoselfm@gmail.com<br>📄 Know about my experiences https://itzmatheus.github.io/portfolio/<br>⚡ Fun fact Nothing
 
 
 ## 🌐 Socials:
